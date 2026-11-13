@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2026gn10719-create.github.io/All-NBA/sitemap.xml
